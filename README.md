@@ -14,4 +14,4 @@ Feito isso, abrimos o terminal nesta pasta e executamos o seguinte comando para 
 Execute o seguinte comando dentro da pasta:
 > python manage.py runserver
 
-Um servidor será iniciado e o aplicativo pode ser acessado pelo caminho indicado no terminal seguido por /polls/
+Um servidor será iniciado e o aplicativo pode ser acessado pelo caminho indicado no terminal seguido por "/polls/"
