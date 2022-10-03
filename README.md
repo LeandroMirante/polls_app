@@ -3,6 +3,7 @@ Um aplicativo criado seguindo a documentação oficial do Django
 
 # O que você precisa ter
 1 - Poetry
+2 - Python ^3,9
 
 # Como abrir o projeto
 
